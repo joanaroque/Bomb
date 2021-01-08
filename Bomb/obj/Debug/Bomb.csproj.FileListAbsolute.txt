@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Bomb\Bomb\obj\Debug\Bomb.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Bomb\Bomb\obj\Debug\Bomb.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Bomb\Bomb\bin\Debug\Bomb.exe.config
+C:\Users\LENOVO\Desktop\Bomb\Bomb\bin\Debug\Bomb.exe
+C:\Users\LENOVO\Desktop\Bomb\Bomb\bin\Debug\Bomb.pdb
+C:\Users\LENOVO\Desktop\Bomb\Bomb\obj\Debug\Bomb.exe
+C:\Users\LENOVO\Desktop\Bomb\Bomb\obj\Debug\Bomb.pdb
